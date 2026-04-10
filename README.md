@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Diego%20Laya&fontSize=50)
+
 # Hey, I'm Diego 👋
 
 I'm a software engineer based in Miami. I love building things that people actually use (mobile apps, backend systems, the occasional AI agent). Most of my work lives in private repos, but the fingerprints are on apps used daily by hundreds of people across healthcare, and on a few personal projects I shipped because they solved a problem I actually had.
