@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Diego%20Laya&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200
 
 # Hey, I'm Diego 👋
 
